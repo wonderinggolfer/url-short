@@ -1,3 +1,11 @@
+# How to run project
+
+cd into backend and run node src/index.js to start server
+cd into frontend and then cd into url-short then run npm start
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
